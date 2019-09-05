@@ -1435,7 +1435,7 @@
         "name": "New York R User Group",
         "url": "<a href='https://www.meetup.com/New-York-R-Users-Group/'>New York R User Group</a>",
         "created": "2013-08-24",
-        "members": "1029",
+        "members": "1028",
         "past_events": "43",
         "upcoming_events": "3",
         "last_event": "2016-11-02",
@@ -1554,7 +1554,7 @@
         "name": "Bristol R User Group",
         "url": "<a href='https://www.meetup.com/Bristol-R-User-Group/'>Bristol R User Group</a>",
         "created": "2018-10-03",
-        "members": "332",
+        "members": "331",
         "past_events": "4",
         "upcoming_events": "0",
         "last_event": "2019-08-20",
@@ -1690,7 +1690,7 @@
         "name": "Austin R User Group",
         "url": "<a href='https://www.meetup.com/Austin-R-User-Group/'>Austin R User Group</a>",
         "created": "2012-01-16",
-        "members": "1643",
+        "members": "1644",
         "past_events": "50",
         "upcoming_events": "0",
         "last_event": "2019-06-11",
@@ -2758,10 +2758,401 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Vancouver R Users Group (data analysis / statistics)",
+        "url": "<a href='https://www.meetup.com/Vancouver-R-Users-Group-data-analysis-statistics/'>Vancouver R Users Group (data analysis / statistics)</a>",
+        "created": "2011-02-09",
+        "members": "1014",
+        "past_events": "20",
+        "upcoming_events": "0",
+        "last_event": "2015-08-03",
+        "days_since_last_event": "1494"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-123.12,49.27]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Salt Lake City R Language Study Group",
+        "url": "<a href='https://www.meetup.com/Salt-Lake-City-R-Language-Study-Group/'>Salt Lake City R Language Study Group</a>",
+        "created": "2018-04-05",
+        "members": "233",
+        "past_events": "27",
+        "upcoming_events": "1",
+        "last_event": "2019-08-10",
+        "days_since_last_event": "26"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.87,40.76]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "SheffieldR - Sheffield R Users Group",
+        "url": "<a href='https://www.meetup.com/SheffieldR-Sheffield-R-Users-Group/'>SheffieldR - Sheffield R Users Group</a>",
+        "created": "2013-03-28",
+        "members": "420",
+        "past_events": "49",
+        "upcoming_events": "0",
+        "last_event": "2019-08-06",
+        "days_since_last_event": "30"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.48,53.38]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kyiv useR! Group",
+        "url": "<a href='https://www.meetup.com/Kyiv-useR-Group/'>Kyiv useR! Group</a>",
+        "created": "2015-04-21",
+        "members": "569",
+        "past_events": "7",
+        "upcoming_events": "0",
+        "last_event": "2018-08-15",
+        "days_since_last_event": "386"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [30.52,50.44]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Auckland R Users Group (AKLRUG)",
+        "url": "<a href='https://www.meetup.com/Auckland-R-Users-Group-AKLRUG/'>Auckland R Users Group (AKLRUG)</a>",
+        "created": "2013-01-08",
+        "members": "1243",
+        "past_events": "19",
+        "upcoming_events": "1",
+        "last_event": "2018-12-13",
+        "days_since_last_event": "266"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [174.76,-36.85]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "mumbai-r-user-group",
+        "url": "<a href='https://www.meetup.com/mumbai-r-user-group/'>mumbai-r-user-group</a>",
+        "created": "2013-09-15",
+        "members": "574",
+        "past_events": "31",
+        "upcoming_events": "1",
+        "last_event": "2017-02-02",
+        "days_since_last_event": "945"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [72.82,18.96]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "DakaR R User Group",
+        "url": "<a href='https://www.meetup.com/DakaR-R-User-Group/'>DakaR R User Group</a>",
+        "created": "2013-10-23",
+        "members": "188",
+        "past_events": "5",
+        "upcoming_events": "0",
+        "last_event": "2018-01-27",
+        "days_since_last_event": "586"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-17.48,14.72]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wroclaw R user Group - WRUG",
+        "url": "<a href='https://www.meetup.com/Wroclaw-R-user-Group-WRUG/'>Wroclaw R user Group - WRUG</a>",
+        "created": "2013-04-14",
+        "members": "36",
+        "past_events": "1",
+        "upcoming_events": "0",
+        "last_event": "2013-06-20",
+        "days_since_last_event": "2268"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [17.03,51.11]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Delhi NCR useR Group (R programming language)",
+        "url": "<a href='https://www.meetup.com/Delhi-NCR-useR-Group-R-programming-language/'>Delhi NCR useR Group (R programming language)</a>",
+        "created": "2018-05-28",
+        "members": "179",
+        "past_events": "3",
+        "upcoming_events": "0",
+        "last_event": "2019-07-20",
+        "days_since_last_event": "47"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [77.21,28.67]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Atlanta R Users Group",
+        "url": "<a href='https://www.meetup.com/R-Users-Atlanta/'>Atlanta R Users Group</a>",
+        "created": "2012-02-14",
+        "members": "916",
+        "past_events": "26",
+        "upcoming_events": "0",
+        "last_event": "2018-11-16",
+        "days_since_last_event": "293"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-84.39,33.93]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bozeman Area R useR Group",
+        "url": "<a href='https://www.meetup.com/Bozeman-useR-Group-R-Programming-Language/'>Bozeman Area R useR Group</a>",
+        "created": "2013-05-30",
+        "members": "150",
+        "past_events": "25",
+        "upcoming_events": "0",
+        "last_event": "2018-03-02",
+        "days_since_last_event": "552"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.06,45.67]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Offa R Users Group",
+        "url": "<a href='https://www.meetup.com/FEDPOFA-R-Users-Group/'>Offa R Users Group</a>",
+        "created": "2013-09-20",
+        "members": "168",
+        "past_events": "39",
+        "upcoming_events": "0",
+        "last_event": "2019-09-04",
+        "days_since_last_event": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.72,8.14]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "New Delhi  UseR Group (R Programming Language)",
+        "url": "<a href='https://www.meetup.com/New-Delhi-R-UseR-Group/'>New Delhi  UseR Group (R Programming Language)</a>",
+        "created": "2012-10-21",
+        "members": "1450",
+        "past_events": "87",
+        "upcoming_events": "0",
+        "last_event": "2018-08-18",
+        "days_since_last_event": "383"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [77.21,28.67]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Albany R Users Group",
+        "url": "<a href='https://www.meetup.com/Albany-R-Users-Group/'>Albany R Users Group</a>",
+        "created": "2014-03-20",
+        "members": "287",
+        "past_events": "16",
+        "upcoming_events": "0",
+        "last_event": "2019-02-28",
+        "days_since_last_event": "189"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.81,42.65]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Leipzig R statistical computing",
+        "url": "<a href='https://www.meetup.com/Leipzig-R-statistical-computing/'>Leipzig R statistical computing</a>",
+        "created": "2011-10-22",
+        "members": "241",
+        "past_events": "11",
+        "upcoming_events": "0",
+        "last_event": "2018-04-16",
+        "days_since_last_event": "507"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [12.4,51.35]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bay Area useR Group (R Programming Language)",
+        "url": "<a href='https://www.meetup.com/R-Users/'>Bay Area useR Group (R Programming Language)</a>",
+        "created": "2008-07-17",
+        "members": "6242",
+        "past_events": "141",
+        "upcoming_events": "0",
+        "last_event": "2019-09-04",
+        "days_since_last_event": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.41,37.8]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sydney Users of  R Forum (SURF)",
+        "url": "<a href='https://www.meetup.com/R-Users-Sydney/'>Sydney Users of  R Forum (SURF)</a>",
+        "created": "2010-06-06",
+        "members": "2752",
+        "past_events": "110",
+        "upcoming_events": "0",
+        "last_event": "2019-08-14",
+        "days_since_last_event": "22"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [151.21,-33.87]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "amst-R-dam",
+        "url": "<a href='https://www.meetup.com/amst-R-dam/'>amst-R-dam</a>",
+        "created": "2010-09-09",
+        "members": "1241",
+        "past_events": "33",
+        "upcoming_events": "0",
+        "last_event": "2019-06-20",
+        "days_since_last_event": "77"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.89,52.37]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Connecticut R Users Group",
+        "url": "<a href='https://www.meetup.com/Conneticut-R-Users-Group/'>Connecticut R Users Group</a>",
+        "created": "2011-09-15",
+        "members": "276",
+        "past_events": "19",
+        "upcoming_events": "0",
+        "last_event": "2016-03-10",
+        "days_since_last_event": "1274"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-72.92,41.31]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Florianópolis R-NNQ R users group",
+        "url": "<a href='https://www.meetup.com/Florianopolis-R-NNQ-R-users-group/'>Florianópolis R-NNQ R users group</a>",
+        "created": "2016-05-06",
+        "members": "485",
+        "past_events": "16",
+        "upcoming_events": "0",
+        "last_event": "2019-08-29",
+        "days_since_last_event": "7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-48.54,-27.6]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Melbourne Users of R Network (MelbURN)",
+        "url": "<a href='https://www.meetup.com/MelbURN-Melbourne-Users-of-R-Network/'>Melbourne Users of R Network (MelbURN)</a>",
+        "created": "2010-08-04",
+        "members": "2710",
+        "past_events": "92",
+        "upcoming_events": "3",
+        "last_event": "2019-08-14",
+        "days_since_last_event": "22"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [144.96,-37.81]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "R User Group Rhein-Neckar",
+        "url": "<a href='https://www.meetup.com/R-User-Group-Rhein-Neckar/'>R User Group Rhein-Neckar</a>",
+        "created": "2011-11-01",
+        "members": "248",
+        "past_events": "32",
+        "upcoming_events": "0",
+        "last_event": "2019-08-13",
+        "days_since_last_event": "23"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.69,49.42]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "100X: Exponential Innovators in the H.E.R.O.’s Journey",
+        "url": "<a href='https://www.meetup.com/100X-Exponential-Innovators-in-the-H-E-R-O-s-Journey/'>100X: Exponential Innovators in the H.E.R.O.’s Journey</a>",
+        "created": "2019-06-09",
+        "members": "75",
+        "past_events": "2",
+        "upcoming_events": "0",
+        "last_event": "2019-07-18",
+        "days_since_last_event": "49"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.85,1.3]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "R-Ladies Washington D.C.",
         "url": "<a href='https://www.meetup.com/rladies-dc/'>R-Ladies Washington D.C.</a>",
         "created": "2016-12-07",
-        "members": "1509",
+        "members": "1510",
         "past_events": "40",
         "upcoming_events": "2",
         "last_event": "2019-08-13",
@@ -2894,57 +3285,6 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Vancouver R Users Group (data analysis / statistics)",
-        "url": "<a href='https://www.meetup.com/Vancouver-R-Users-Group-data-analysis-statistics/'>Vancouver R Users Group (data analysis / statistics)</a>",
-        "created": "2011-02-09",
-        "members": "1014",
-        "past_events": "20",
-        "upcoming_events": "0",
-        "last_event": "2015-08-03",
-        "days_since_last_event": "1494"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-123.12,49.27]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "mumbai-r-user-group",
-        "url": "<a href='https://www.meetup.com/mumbai-r-user-group/'>mumbai-r-user-group</a>",
-        "created": "2013-09-15",
-        "members": "574",
-        "past_events": "31",
-        "upcoming_events": "1",
-        "last_event": "2017-02-02",
-        "days_since_last_event": "945"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [72.82,18.96]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Atlanta R Users Group",
-        "url": "<a href='https://www.meetup.com/R-Users-Atlanta/'>Atlanta R Users Group</a>",
-        "created": "2012-02-14",
-        "members": "916",
-        "past_events": "26",
-        "upcoming_events": "0",
-        "last_event": "2018-11-16",
-        "days_since_last_event": "293"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-84.39,33.93]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "name": "adminR: R in Swiss Official Statistics",
         "url": "<a href='https://www.meetup.com/adminR/'>adminR: R in Swiss Official Statistics</a>",
         "created": "2018-08-19",
@@ -2957,23 +3297,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [7.44,46.95]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Auckland R Users Group (AKLRUG)",
-        "url": "<a href='https://www.meetup.com/Auckland-R-Users-Group-AKLRUG/'>Auckland R Users Group (AKLRUG)</a>",
-        "created": "2013-01-08",
-        "members": "1243",
-        "past_events": "19",
-        "upcoming_events": "1",
-        "last_event": "2018-12-13",
-        "days_since_last_event": "266"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [174.76,-36.85]
       }
     },
     {
@@ -3047,23 +3370,6 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Bay Area useR Group (R Programming Language)",
-        "url": "<a href='https://www.meetup.com/R-Users/'>Bay Area useR Group (R Programming Language)</a>",
-        "created": "2008-07-17",
-        "members": "6242",
-        "past_events": "141",
-        "upcoming_events": "0",
-        "last_event": "2019-09-04",
-        "days_since_last_event": "1"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-122.41,37.8]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "name": "MadR - Madison R Programming UseRs Group",
         "url": "<a href='https://www.meetup.com/MadR-Madison-R-Programming-UseRs-Group/'>MadR - Madison R Programming UseRs Group</a>",
         "created": "2014-01-10",
@@ -3093,23 +3399,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [36.82,-1.29]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "New Delhi  UseR Group (R Programming Language)",
-        "url": "<a href='https://www.meetup.com/New-Delhi-R-UseR-Group/'>New Delhi  UseR Group (R Programming Language)</a>",
-        "created": "2012-10-21",
-        "members": "1450",
-        "past_events": "87",
-        "upcoming_events": "0",
-        "last_event": "2018-08-18",
-        "days_since_last_event": "383"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [77.21,28.67]
       }
     },
     {
@@ -3183,40 +3472,6 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "amst-R-dam",
-        "url": "<a href='https://www.meetup.com/amst-R-dam/'>amst-R-dam</a>",
-        "created": "2010-09-09",
-        "members": "1241",
-        "past_events": "33",
-        "upcoming_events": "0",
-        "last_event": "2019-06-20",
-        "days_since_last_event": "77"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [4.89,52.37]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Connecticut R Users Group",
-        "url": "<a href='https://www.meetup.com/Conneticut-R-Users-Group/'>Connecticut R Users Group</a>",
-        "created": "2011-09-15",
-        "members": "276",
-        "past_events": "19",
-        "upcoming_events": "0",
-        "last_event": "2016-03-10",
-        "days_since_last_event": "1274"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-72.92,41.31]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "name": "Seattle useR Group (R Programming Language)",
         "url": "<a href='https://www.meetup.com/Seattle-useR/'>Seattle useR Group (R Programming Language)</a>",
         "created": "2009-12-12",
@@ -3246,23 +3501,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [-9.14,38.72]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Leipzig R statistical computing",
-        "url": "<a href='https://www.meetup.com/Leipzig-R-statistical-computing/'>Leipzig R statistical computing</a>",
-        "created": "2011-10-22",
-        "members": "241",
-        "past_events": "11",
-        "upcoming_events": "0",
-        "last_event": "2018-04-16",
-        "days_since_last_event": "507"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [12.4,51.35]
       }
     },
     {
@@ -3387,23 +3625,6 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Bozeman Area R useR Group",
-        "url": "<a href='https://www.meetup.com/Bozeman-useR-Group-R-Programming-Language/'>Bozeman Area R useR Group</a>",
-        "created": "2013-05-30",
-        "members": "150",
-        "past_events": "25",
-        "upcoming_events": "0",
-        "last_event": "2018-03-02",
-        "days_since_last_event": "552"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-111.06,45.67]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "name": "R en Buenos Aires",
         "url": "<a href='https://www.meetup.com/renbaires/'>R en Buenos Aires</a>",
         "created": "2018-10-04",
@@ -3518,23 +3739,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [-9.14,38.72]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "DakaR R User Group",
-        "url": "<a href='https://www.meetup.com/DakaR-R-User-Group/'>DakaR R User Group</a>",
-        "created": "2013-10-23",
-        "members": "188",
-        "past_events": "5",
-        "upcoming_events": "0",
-        "last_event": "2018-01-27",
-        "days_since_last_event": "586"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-17.48,14.72]
       }
     },
     {
@@ -3744,23 +3948,6 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Florianópolis R-NNQ R users group",
-        "url": "<a href='https://www.meetup.com/Florianopolis-R-NNQ-R-users-group/'>Florianópolis R-NNQ R users group</a>",
-        "created": "2016-05-06",
-        "members": "485",
-        "past_events": "16",
-        "upcoming_events": "0",
-        "last_event": "2019-08-29",
-        "days_since_last_event": "7"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-48.54,-27.6]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "name": "R-Ladies Taipei",
         "url": "<a href='https://www.meetup.com/rladies-taipei/'>R-Ladies Taipei</a>",
         "created": "2016-10-23",
@@ -3790,23 +3977,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [-73.6,45.53]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Offa R Users Group",
-        "url": "<a href='https://www.meetup.com/FEDPOFA-R-Users-Group/'>Offa R Users Group</a>",
-        "created": "2013-09-20",
-        "members": "168",
-        "past_events": "39",
-        "upcoming_events": "0",
-        "last_event": "2019-09-04",
-        "days_since_last_event": "1"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [4.72,8.14]
       }
     },
     {
@@ -4011,23 +4181,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [20.5,44.83]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "SheffieldR - Sheffield R Users Group",
-        "url": "<a href='https://www.meetup.com/SheffieldR-Sheffield-R-Users-Group/'>SheffieldR - Sheffield R Users Group</a>",
-        "created": "2013-03-28",
-        "members": "420",
-        "past_events": "49",
-        "upcoming_events": "0",
-        "last_event": "2019-08-06",
-        "days_since_last_event": "30"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-1.48,53.38]
       }
     },
     {
@@ -4784,7 +4937,7 @@
         "name": "R-Ladies Philly",
         "url": "<a href='https://www.meetup.com/rladies-philly/'>R-Ladies Philly</a>",
         "created": "2017-10-11",
-        "members": "679",
+        "members": "680",
         "past_events": "27",
         "upcoming_events": "2",
         "last_event": "2019-08-22",
@@ -4963,23 +5116,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [121.45,25.02]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Sydney Users of  R Forum (SURF)",
-        "url": "<a href='https://www.meetup.com/R-Users-Sydney/'>Sydney Users of  R Forum (SURF)</a>",
-        "created": "2010-06-06",
-        "members": "2752",
-        "past_events": "110",
-        "upcoming_events": "0",
-        "last_event": "2019-08-14",
-        "days_since_last_event": "22"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [151.21,-33.87]
       }
     },
     {
@@ -5206,23 +5342,6 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Albany R Users Group",
-        "url": "<a href='https://www.meetup.com/Albany-R-Users-Group/'>Albany R Users Group</a>",
-        "created": "2014-03-20",
-        "members": "287",
-        "past_events": "16",
-        "upcoming_events": "0",
-        "last_event": "2019-02-28",
-        "days_since_last_event": "189"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-73.81,42.65]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "name": "R-Ladies Santa Rosa",
         "url": "<a href='https://www.meetup.com/rladies-santa-rosa/'>R-Ladies Santa Rosa</a>",
         "created": "2017-04-06",
@@ -5269,23 +5388,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [147.29,-42.85]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Melbourne Users of R Network (MelbURN)",
-        "url": "<a href='https://www.meetup.com/MelbURN-Melbourne-Users-of-R-Network/'>Melbourne Users of R Network (MelbURN)</a>",
-        "created": "2010-08-04",
-        "members": "2710",
-        "past_events": "92",
-        "upcoming_events": "3",
-        "last_event": "2019-08-14",
-        "days_since_last_event": "22"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [144.96,-37.81]
       }
     },
     {
@@ -6396,23 +6498,6 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Kyiv useR! Group",
-        "url": "<a href='https://www.meetup.com/Kyiv-useR-Group/'>Kyiv useR! Group</a>",
-        "created": "2015-04-21",
-        "members": "569",
-        "past_events": "7",
-        "upcoming_events": "0",
-        "last_event": "2018-08-15",
-        "days_since_last_event": "386"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [30.52,50.44]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "name": "WiDS-Sthlm:  Women Data Scientists Stockholm",
         "url": "<a href='https://www.meetup.com/Women-Data-Scientists-Stockholm/'>WiDS-Sthlm:  Women Data Scientists Stockholm</a>",
         "created": "2018-11-08",
@@ -6688,7 +6773,7 @@
         "name": "Data Science Floripa",
         "url": "<a href='https://www.meetup.com/dsfloripa/'>Data Science Floripa</a>",
         "created": "2015-04-16",
-        "members": "1591",
+        "members": "1592",
         "past_events": "14",
         "upcoming_events": "0",
         "last_event": "2019-08-14",
@@ -7181,7 +7266,7 @@
         "name": "LondonR",
         "url": "<a href='https://www.meetup.com/LondonR/'>LondonR</a>",
         "created": "2010-02-05",
-        "members": "3330",
+        "members": "3329",
         "past_events": "73",
         "upcoming_events": "1",
         "last_event": "2019-08-19",
@@ -7351,7 +7436,7 @@
         "name": "Machine Learning Spain",
         "url": "<a href='https://www.meetup.com/MachineLearningSpain/'>Machine Learning Spain</a>",
         "created": "2014-08-20",
-        "members": "4392",
+        "members": "4393",
         "past_events": "39",
         "upcoming_events": "1",
         "last_event": "2019-06-12",
@@ -8235,7 +8320,7 @@
         "name": "Pune Big Data Analytics Meetup",
         "url": "<a href='https://www.meetup.com/meetup-group-mBrnrixQ/'>Pune Big Data Analytics Meetup</a>",
         "created": "2017-03-22",
-        "members": "5181",
+        "members": "5182",
         "past_events": "288",
         "upcoming_events": "1",
         "last_event": "2019-08-24",
@@ -9000,7 +9085,7 @@
         "name": "Newbury AI Meetup",
         "url": "<a href='https://www.meetup.com/Newbury-AI-Meetup/'>Newbury AI Meetup</a>",
         "created": "2018-08-24",
-        "members": "264",
+        "members": "263",
         "past_events": "10",
         "upcoming_events": "1",
         "last_event": "2019-08-28",
@@ -9391,7 +9476,7 @@
         "name": "R-Ladies Utrecht",
         "url": "<a href='https://www.meetup.com/rladies-utrecht/'>R-Ladies Utrecht</a>",
         "created": "2019-06-10",
-        "members": "81",
+        "members": "82",
         "past_events": "1",
         "upcoming_events": "0",
         "last_event": "2019-08-29",
@@ -9799,7 +9884,7 @@
         "name": "R-Ladies Gainesville",
         "url": "<a href='https://www.meetup.com/rladies-gainesville/'>R-Ladies Gainesville</a>",
         "created": "2018-07-04",
-        "members": "199",
+        "members": "198",
         "past_events": "11",
         "upcoming_events": "1",
         "last_event": "2019-07-29",
