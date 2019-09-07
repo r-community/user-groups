@@ -235,6 +235,10 @@ days <- function(actindex,daycount){
    r_groups$upcoming_events <- upcoming_event_counts
   r_groups$last_event <- last_event
   r_groups$days_since_last_event <- days_since_last_event
+  
+#possible mistake from meetup. San Juan is assigned to US instead of Puerto Rico
+r_groups[grepl("San Juan",r_groups$city),]$country<- "Puerto Rico"
+  
   r_groups[grepl("America",r_groups$timezone),]$timezone <- "Latin America"
   r_groups[grepl("US|Canada",r_groups$timezone),]$timezone <- "US/Canada"
   r_groups[grepl("Europe",r_groups$timezone),]$timezone <- "Europe"
