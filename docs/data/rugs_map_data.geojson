@@ -126,7 +126,7 @@
         "name": "FREE ! Learn R for Big Data / Data Science",
         "url": "<a href='https://www.meetup.com/Learn-R-for-Big-Data/'>FREE ! Learn R for Big Data / Data Science</a>",
         "created": "2018-08-31",
-        "members": "608",
+        "members": "609",
         "past_events": "25",
         "upcoming_events": "2",
         "last_event": "2019-12-25",
@@ -160,7 +160,7 @@
         "name": "Mad Over Data",
         "url": "<a href='https://www.meetup.com/Mad-Over-Data/'>Mad Over Data</a>",
         "created": "2020-01-02",
-        "members": "92",
+        "members": "96",
         "past_events": "0",
         "upcoming_events": "0",
         "last_event": "1970-01-01",
@@ -177,7 +177,7 @@
         "name": "Mad Over Data | Delhi NCR",
         "url": "<a href='https://www.meetup.com/Mad-Over-Data-Delhi-NCR/'>Mad Over Data | Delhi NCR</a>",
         "created": "2020-01-07",
-        "members": "28",
+        "members": "32",
         "past_events": "0",
         "upcoming_events": "1",
         "last_event": "1970-01-01",
@@ -194,7 +194,7 @@
         "name": "BerlinR - an R group focused on modern data science",
         "url": "<a href='https://www.meetup.com/BerlinR-R-users-group/'>BerlinR - an R group focused on modern data science</a>",
         "created": "2018-10-23",
-        "members": "467",
+        "members": "469",
         "past_events": "6",
         "upcoming_events": "2",
         "last_event": "2019-11-27",
@@ -211,7 +211,7 @@
         "name": "Greater Cleveland Python/Julia/R Data Science Group",
         "url": "<a href='https://www.meetup.com/Greater-Cleveland-SciPy-Julia-R-Data-Science-Group/'>Greater Cleveland Python/Julia/R Data Science Group</a>",
         "created": "2016-03-12",
-        "members": "581",
+        "members": "580",
         "past_events": "33",
         "upcoming_events": "0",
         "last_event": "2019-08-03",
@@ -237,23 +237,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [77.56,12.97]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "LA R users group",
-        "url": "<a href='https://www.meetup.com/Los-Angeles-R-Users-Group-Data-Science/'>LA R users group</a>",
-        "created": "2009-03-21",
-        "members": "2065",
-        "past_events": "107",
-        "upcoming_events": "0",
-        "last_event": "2019-12-10",
-        "days_since_last_event": "30"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-118.5,34.02]
       }
     },
     {
@@ -293,10 +276,27 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "LA R users group",
+        "url": "<a href='https://www.meetup.com/Los-Angeles-R-Users-Group-Data-Science/'>LA R users group</a>",
+        "created": "2009-03-21",
+        "members": "2065",
+        "past_events": "107",
+        "upcoming_events": "0",
+        "last_event": "2019-12-10",
+        "days_since_last_event": "30"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-118.5,34.02]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Colchester R Meetup",
         "url": "<a href='https://www.meetup.com/Colchester-R-Meetup/'>Colchester R Meetup</a>",
         "created": "2018-04-16",
-        "members": "209",
+        "members": "210",
         "past_events": "11",
         "upcoming_events": "1",
         "last_event": "2019-11-21",
@@ -653,7 +653,7 @@
         "name": "Microsoft Advanced Analytics User Group",
         "url": "<a href='https://www.meetup.com/Microsoft-Advanced-Analytics-User-Group/'>Microsoft Advanced Analytics User Group</a>",
         "created": "2017-11-17",
-        "members": "764",
+        "members": "765",
         "past_events": "13",
         "upcoming_events": "0",
         "last_event": "2019-04-15",
@@ -927,7 +927,7 @@
         "created": "2015-05-03",
         "members": "789",
         "past_events": "9",
-        "upcoming_events": "1",
+        "upcoming_events": "2",
         "last_event": "2018-12-11",
         "days_since_last_event": "394"
       },
@@ -1367,7 +1367,7 @@
         "name": "Zurich R User Group",
         "url": "<a href='https://www.meetup.com/Zurich-R-User-Group/'>Zurich R User Group</a>",
         "created": "2015-11-18",
-        "members": "1769",
+        "members": "1770",
         "past_events": "28",
         "upcoming_events": "0",
         "last_event": "2019-11-13",
@@ -1809,7 +1809,7 @@
         "name": "Hong Kong R User Group",
         "url": "<a href='https://www.meetup.com/Hong-Kong-R-User-Group/'>Hong Kong R User Group</a>",
         "created": "2018-05-02",
-        "members": "175",
+        "members": "174",
         "past_events": "4",
         "upcoming_events": "0",
         "last_event": "2019-07-20",
@@ -1894,7 +1894,7 @@
         "name": "Greater Cleveland R Group",
         "url": "<a href='https://www.meetup.com/Cleveland-UseR-Group/'>Greater Cleveland R Group</a>",
         "created": "2012-01-16",
-        "members": "680",
+        "members": "681",
         "past_events": "60",
         "upcoming_events": "4",
         "last_event": "2019-12-11",
@@ -2693,7 +2693,7 @@
         "name": "Data Science Festival - London",
         "url": "<a href='https://www.meetup.com/Data-Science-Festival-London/'>Data Science Festival - London</a>",
         "created": "2016-04-25",
-        "members": "10423",
+        "members": "10425",
         "past_events": "61",
         "upcoming_events": "1",
         "last_event": "2019-11-26",
@@ -2710,7 +2710,7 @@
         "name": "Data Science Nantes",
         "url": "<a href='https://www.meetup.com/Data-Science-Nantes/'>Data Science Nantes</a>",
         "created": "2018-12-03",
-        "members": "428",
+        "members": "429",
         "past_events": "5",
         "upcoming_events": "1",
         "last_event": "2019-11-28",
@@ -2931,7 +2931,7 @@
         "name": "ODSC Delhi Data Science",
         "url": "<a href='https://www.meetup.com/Delhi-Data-Science-ODSC/'>ODSC Delhi Data Science</a>",
         "created": "2019-05-23",
-        "members": "2180",
+        "members": "2185",
         "past_events": "12",
         "upcoming_events": "1",
         "last_event": "2019-12-07",
@@ -2948,9 +2948,9 @@
         "name": "Data Science Study Group: South Florida",
         "url": "<a href='https://www.meetup.com/Data-Science-Study-Group-South-Florida/'>Data Science Study Group: South Florida</a>",
         "created": "2017-07-06",
-        "members": "1330",
+        "members": "1331",
         "past_events": "56",
-        "upcoming_events": "2",
+        "upcoming_events": "3",
         "last_event": "2020-01-08",
         "days_since_last_event": "1"
       },
@@ -2965,7 +2965,7 @@
         "name": "ODSC Sao Paulo Data Science",
         "url": "<a href='https://www.meetup.com/Sao-Paulo-Data-Science-ODSC/'>ODSC Sao Paulo Data Science</a>",
         "created": "2018-12-14",
-        "members": "1759",
+        "members": "1760",
         "past_events": "5",
         "upcoming_events": "1",
         "last_event": "2019-10-31",
@@ -2982,7 +2982,7 @@
         "name": "Data Science and Machine Learning Meet",
         "url": "<a href='https://www.meetup.com/Data-Science-and-Machine-Learning/'>Data Science and Machine Learning Meet</a>",
         "created": "2017-12-06",
-        "members": "1407",
+        "members": "1408",
         "past_events": "12",
         "upcoming_events": "0",
         "last_event": "2019-12-14",
@@ -2999,7 +2999,7 @@
         "name": "ODSC Zurich Data Science",
         "url": "<a href='https://www.meetup.com/Zurich-Data-Sciece-ODSC/'>ODSC Zurich Data Science</a>",
         "created": "2018-08-02",
-        "members": "804",
+        "members": "806",
         "past_events": "21",
         "upcoming_events": "2",
         "last_event": "2020-01-08",
@@ -3016,7 +3016,7 @@
         "name": "ODSC Milano Data Science",
         "url": "<a href='https://www.meetup.com/Milano-Data-Science-ODSC/'>ODSC Milano Data Science</a>",
         "created": "2018-08-03",
-        "members": "1634",
+        "members": "1635",
         "past_events": "23",
         "upcoming_events": "1",
         "last_event": "2020-01-08",
@@ -3033,7 +3033,7 @@
         "name": "Data Science Festival - Leeds",
         "url": "<a href='https://www.meetup.com/Data-Science-Festival-Leeds/'>Data Science Festival - Leeds</a>",
         "created": "2019-10-16",
-        "members": "83",
+        "members": "84",
         "past_events": "0",
         "upcoming_events": "1",
         "last_event": "1970-01-01",
@@ -3118,7 +3118,7 @@
         "name": "ODSC Berlin Data Science",
         "url": "<a href='https://www.meetup.com/Berlin-Data-Science-ODSC/'>ODSC Berlin Data Science</a>",
         "created": "2018-08-02",
-        "members": "547",
+        "members": "546",
         "past_events": "15",
         "upcoming_events": "1",
         "last_event": "2020-01-08",
@@ -3135,9 +3135,9 @@
         "name": "Data Science Hub",
         "url": "<a href='https://www.meetup.com/Data-Science-Hub/'>Data Science Hub</a>",
         "created": "2019-05-04",
-        "members": "454",
+        "members": "455",
         "past_events": "19",
-        "upcoming_events": "0",
+        "upcoming_events": "1",
         "last_event": "2019-12-27",
         "days_since_last_event": "13"
       },
@@ -3169,7 +3169,7 @@
         "name": "ODSC Copenhagen Data Science",
         "url": "<a href='https://www.meetup.com/Copenhagen-Data-Sciece-ODSC/'>ODSC Copenhagen Data Science</a>",
         "created": "2018-08-02",
-        "members": "510",
+        "members": "509",
         "past_events": "11",
         "upcoming_events": "1",
         "last_event": "2020-01-08",
@@ -3305,7 +3305,7 @@
         "name": "ODSC Amsterdam Data Science",
         "url": "<a href='https://www.meetup.com/Amsterdam-Data-Science-ODSC/'>ODSC Amsterdam Data Science</a>",
         "created": "2018-08-02",
-        "members": "720",
+        "members": "719",
         "past_events": "13",
         "upcoming_events": "0",
         "last_event": "2019-11-19",
@@ -3506,23 +3506,6 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Open Data Science - Christchurch",
-        "url": "<a href='https://www.meetup.com/Christchurch-Data-Science-Group/'>Open Data Science - Christchurch</a>",
-        "created": "2019-03-07",
-        "members": "21",
-        "past_events": "3",
-        "upcoming_events": "0",
-        "last_event": "2019-05-18",
-        "days_since_last_event": "236"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [172.64,-43.53]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "name": "Fort Collins Data Science",
         "url": "<a href='https://www.meetup.com/Fort-Collins-Data-Science/'>Fort Collins Data Science</a>",
         "created": "2015-09-02",
@@ -3543,7 +3526,7 @@
         "name": "Kolkata Data Science Meetup Group",
         "url": "<a href='https://www.meetup.com/Kolkata-Data-Science-Meetup-Group/'>Kolkata Data Science Meetup Group</a>",
         "created": "2019-08-06",
-        "members": "467",
+        "members": "468",
         "past_events": "4",
         "upcoming_events": "0",
         "last_event": "2019-12-15",
@@ -3676,6 +3659,23 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Open Data Science - Christchurch",
+        "url": "<a href='https://www.meetup.com/Christchurch-Data-Science-Group/'>Open Data Science - Christchurch</a>",
+        "created": "2019-03-07",
+        "members": "21",
+        "past_events": "3",
+        "upcoming_events": "0",
+        "last_event": "2019-05-18",
+        "days_since_last_event": "236"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [172.64,-43.53]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Data Science for Non-Profits",
         "url": "<a href='https://www.meetup.com/Data-Science-for-Non-Profits/'>Data Science for Non-Profits</a>",
         "created": "2019-06-15",
@@ -3764,7 +3764,7 @@
         "name": "Learn Data Science",
         "url": "<a href='https://www.meetup.com/LearnDataScience/'>Learn Data Science</a>",
         "created": "2015-04-04",
-        "members": "4651",
+        "members": "4652",
         "past_events": "282",
         "upcoming_events": "8",
         "last_event": "2020-01-08",
@@ -3781,7 +3781,7 @@
         "name": "Southern Data Science (BBDS)",
         "url": "<a href='https://www.meetup.com/Southern-Data-science/'>Southern Data Science (BBDS)</a>",
         "created": "2017-03-23",
-        "members": "1991",
+        "members": "1992",
         "past_events": "41",
         "upcoming_events": "1",
         "last_event": "2019-11-12",
@@ -3798,7 +3798,7 @@
         "name": "Data Science Lab",
         "url": "<a href='https://www.meetup.com/data-science-lab/'>Data Science Lab</a>",
         "created": "2013-01-17",
-        "members": "2896",
+        "members": "2895",
         "past_events": "33",
         "upcoming_events": "1",
         "last_event": "2019-11-26",
@@ -3866,7 +3866,7 @@
         "name": "Data Science NL",
         "url": "<a href='https://www.meetup.com/DataScienceNL/'>Data Science NL</a>",
         "created": "2012-10-02",
-        "members": "3007",
+        "members": "3006",
         "past_events": "13",
         "upcoming_events": "0",
         "last_event": "2019-11-28",
@@ -3883,7 +3883,7 @@
         "name": "Data Science Festival - Dublin",
         "url": "<a href='https://www.meetup.com/Data-Science-Festival-Dublin/'>Data Science Festival - Dublin</a>",
         "created": "2018-05-10",
-        "members": "1832",
+        "members": "1834",
         "past_events": "11",
         "upcoming_events": "0",
         "last_event": "2019-11-12",
@@ -4002,7 +4002,7 @@
         "name": "Data Science Johannesburg",
         "url": "<a href='https://www.meetup.com/Data-Science-Johannesburg/'>Data Science Johannesburg</a>",
         "created": "2012-04-26",
-        "members": "1335",
+        "members": "1336",
         "past_events": "28",
         "upcoming_events": "0",
         "last_event": "2019-11-13",
@@ -4138,7 +4138,7 @@
         "name": "Leeds Data Science Meetup",
         "url": "<a href='https://www.meetup.com/Leeds-Data-Science-Meetup/'>Leeds Data Science Meetup</a>",
         "created": "2018-04-09",
-        "members": "653",
+        "members": "655",
         "past_events": "13",
         "upcoming_events": "2",
         "last_event": "2019-11-26",
@@ -4240,7 +4240,7 @@
         "name": "Data Science & Big Data - Izmir",
         "url": "<a href='https://www.meetup.com/Data-Science-Big-Data-Izmir/'>Data Science & Big Data - Izmir</a>",
         "created": "2017-12-17",
-        "members": "1761",
+        "members": "1762",
         "past_events": "6",
         "upcoming_events": "0",
         "last_event": "2019-11-02",
@@ -4526,23 +4526,6 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Genève Data Scientist meetup",
-        "url": "<a href='https://www.meetup.com/Geneve-Data-Scientist-meetup/'>Genève Data Scientist meetup</a>",
-        "created": "2017-05-05",
-        "members": "50",
-        "past_events": "0",
-        "upcoming_events": "0",
-        "last_event": "1970-01-01",
-        "days_since_last_event": "18270"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [6.14,46.21]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "name": "London Apache Zeppelin & Data Science Meetup",
         "url": "<a href='https://www.meetup.com/London-Apache-Zeppelin-Data-Science-Meetup/'>London Apache Zeppelin & Data Science Meetup</a>",
         "created": "2018-09-03",
@@ -4555,23 +4538,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [-0.1,51.52]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Data Analytics & Business Intelligence",
-        "url": "<a href='https://www.meetup.com/Data_Science_ATMinds/'>Data Analytics & Business Intelligence</a>",
-        "created": "2017-04-20",
-        "members": "232",
-        "past_events": "0",
-        "upcoming_events": "0",
-        "last_event": "1970-01-01",
-        "days_since_last_event": "18270"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [77.56,12.97]
       }
     },
     {
@@ -4597,7 +4563,7 @@
         "name": "Saudi Data",
         "url": "<a href='https://www.meetup.com/Saudi-Data-2030/'>Saudi Data</a>",
         "created": "2019-01-03",
-        "members": "1642",
+        "members": "1643",
         "past_events": "11",
         "upcoming_events": "0",
         "last_event": "2020-01-06",
@@ -4606,6 +4572,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [46.77,24.65]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Genève Data Scientist meetup",
+        "url": "<a href='https://www.meetup.com/Geneve-Data-Scientist-meetup/'>Genève Data Scientist meetup</a>",
+        "created": "2017-05-05",
+        "members": "50",
+        "past_events": "0",
+        "upcoming_events": "0",
+        "last_event": "1970-01-01",
+        "days_since_last_event": "18270"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.14,46.21]
       }
     },
     {
@@ -4623,6 +4606,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [19.02,50.26]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Data Analytics & Business Intelligence",
+        "url": "<a href='https://www.meetup.com/Data_Science_ATMinds/'>Data Analytics & Business Intelligence</a>",
+        "created": "2017-04-20",
+        "members": "232",
+        "past_events": "0",
+        "upcoming_events": "0",
+        "last_event": "1970-01-01",
+        "days_since_last_event": "18270"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [77.56,12.97]
       }
     },
     {
@@ -4665,7 +4665,7 @@
         "name": "Data Scientists Ireland",
         "url": "<a href='https://www.meetup.com/DataScientistsIreland/'>Data Scientists Ireland</a>",
         "created": "2014-02-19",
-        "members": "4453",
+        "members": "4454",
         "past_events": "205",
         "upcoming_events": "10",
         "last_event": "2019-11-21",
@@ -4716,7 +4716,7 @@
         "name": "Totta data lab",
         "url": "<a href='https://www.meetup.com/Totta-data-lab/'>Totta data lab</a>",
         "created": "2017-08-09",
-        "members": "155",
+        "members": "156",
         "past_events": "5",
         "upcoming_events": "0",
         "last_event": "2019-11-13",
@@ -4767,7 +4767,7 @@
         "name": "Colorado Big Data Enthusiasts",
         "url": "<a href='https://www.meetup.com/Colorado-Big-Data-Enthusiasts/'>Colorado Big Data Enthusiasts</a>",
         "created": "2015-05-27",
-        "members": "348",
+        "members": "349",
         "past_events": "16",
         "upcoming_events": "0",
         "last_event": "2018-10-23",
@@ -4818,7 +4818,7 @@
         "name": "Ankara Data Science and Big Data Meetup",
         "url": "<a href='https://www.meetup.com/Ankara-Data-Science-and-Big-Data-Meetup/'>Ankara Data Science and Big Data Meetup</a>",
         "created": "2015-12-16",
-        "members": "2003",
+        "members": "2004",
         "past_events": "4",
         "upcoming_events": "0",
         "last_event": "2016-05-09",
@@ -5022,7 +5022,7 @@
         "name": "Open Data Science (Hosted by ODSC)",
         "url": "<a href='https://www.meetup.com/open-data-odsc/'>Open Data Science (Hosted by ODSC)</a>",
         "created": "2013-03-20",
-        "members": "4947",
+        "members": "4948",
         "past_events": "132",
         "upcoming_events": "3",
         "last_event": "2020-01-08",
@@ -5039,7 +5039,7 @@
         "name": "Data Science & Business Analytics",
         "url": "<a href='https://www.meetup.com/Data-Science-Business-Analytics/'>Data Science & Business Analytics</a>",
         "created": "2012-08-08",
-        "members": "2292",
+        "members": "2291",
         "past_events": "114",
         "upcoming_events": "0",
         "last_event": "2017-09-08",
@@ -5379,7 +5379,7 @@
         "name": "DataChangers - Open Your World With Data & AI",
         "url": "<a href='https://www.meetup.com/datachangers/'>DataChangers - Open Your World With Data & AI</a>",
         "created": "2017-04-20",
-        "members": "1024",
+        "members": "1025",
         "past_events": "91",
         "upcoming_events": "0",
         "last_event": "2019-10-14",
@@ -5634,7 +5634,7 @@
         "name": "Veri Bilimi Okulu",
         "url": "<a href='https://www.meetup.com/veribilimiokulu/'>Veri Bilimi Okulu</a>",
         "created": "2016-12-04",
-        "members": "3864",
+        "members": "3866",
         "past_events": "14",
         "upcoming_events": "0",
         "last_event": "2019-11-26",
@@ -5668,7 +5668,7 @@
         "name": "Melbourne ML/AI Bookclub",
         "url": "<a href='https://www.meetup.com/Melbourne-ML-AI-Bookclub/'>Melbourne ML/AI Bookclub</a>",
         "created": "2018-08-08",
-        "members": "1192",
+        "members": "1193",
         "past_events": "58",
         "upcoming_events": "10",
         "last_event": "2020-01-08",
@@ -5685,7 +5685,7 @@
         "name": "Data Analysis and Business Modeling (DABM) Meetup",
         "url": "<a href='https://www.meetup.com/Data-Analysis-and-Business-Modeling-DABM-Meetup/'>Data Analysis and Business Modeling (DABM) Meetup</a>",
         "created": "2017-08-25",
-        "members": "3152",
+        "members": "3153",
         "past_events": "15",
         "upcoming_events": "3",
         "last_event": "2019-12-14",
@@ -5702,7 +5702,7 @@
         "name": "PyData Wroclaw",
         "url": "<a href='https://www.meetup.com/PyData-Wroclaw/'>PyData Wroclaw</a>",
         "created": "2016-09-23",
-        "members": "646",
+        "members": "647",
         "past_events": "16",
         "upcoming_events": "1",
         "last_event": "2019-11-28",
@@ -5719,7 +5719,7 @@
         "name": "PyData Mallorca",
         "url": "<a href='https://www.meetup.com/PyData-Mallorca/'>PyData Mallorca</a>",
         "created": "2016-09-12",
-        "members": "939",
+        "members": "940",
         "past_events": "22",
         "upcoming_events": "1",
         "last_event": "2019-10-30",
@@ -6280,7 +6280,7 @@
         "name": "Big Data Developers in Zagreb",
         "url": "<a href='https://www.meetup.com/Big-Data-Developers-in-Zagreb/'>Big Data Developers in Zagreb</a>",
         "created": "2014-12-11",
-        "members": "666",
+        "members": "667",
         "past_events": "17",
         "upcoming_events": "0",
         "last_event": "2019-11-21",
@@ -6399,7 +6399,7 @@
         "name": "Data Hackers: San Francisco",
         "url": "<a href='https://www.meetup.com/datahackers/'>Data Hackers: San Francisco</a>",
         "created": "2013-05-30",
-        "members": "884",
+        "members": "885",
         "past_events": "28",
         "upcoming_events": "0",
         "last_event": "2019-10-08",
@@ -6520,7 +6520,7 @@
         "created": "2019-01-15",
         "members": "95",
         "past_events": "44",
-        "upcoming_events": "1",
+        "upcoming_events": "0",
         "last_event": "2019-12-28",
         "days_since_last_event": "12"
       },
@@ -6671,7 +6671,7 @@
         "name": "New York Open Statistical Programming Meetup",
         "url": "<a href='https://www.meetup.com/nyhackr/'>New York Open Statistical Programming Meetup</a>",
         "created": "2009-03-12",
-        "members": "11149",
+        "members": "11150",
         "past_events": "113",
         "upcoming_events": "1",
         "last_event": "2019-12-11",
@@ -6705,7 +6705,7 @@
         "name": "Berlin KNIME Users",
         "url": "<a href='https://www.meetup.com/Berlin-KNIME-Users/'>Berlin KNIME Users</a>",
         "created": "2013-10-04",
-        "members": "406",
+        "members": "407",
         "past_events": "15",
         "upcoming_events": "1",
         "last_event": "2019-12-12",
@@ -6739,7 +6739,7 @@
         "name": "R-Ladies La Paz",
         "url": "<a href='https://www.meetup.com/rladies-la-paz/'>R-Ladies La Paz</a>",
         "created": "2018-10-23",
-        "members": "86",
+        "members": "88",
         "past_events": "2",
         "upcoming_events": "1",
         "last_event": "2019-03-09",
@@ -6994,7 +6994,7 @@
         "name": "rMoscow",
         "url": "<a href='https://www.meetup.com/rMoscow/'>rMoscow</a>",
         "created": "2014-06-16",
-        "members": "530",
+        "members": "533",
         "past_events": "6",
         "upcoming_events": "1",
         "last_event": "2019-04-20",
@@ -7028,7 +7028,7 @@
         "name": "DataViz Nantes",
         "url": "<a href='https://www.meetup.com/DataViz-Nantes/'>DataViz Nantes</a>",
         "created": "2016-09-15",
-        "members": "905",
+        "members": "906",
         "past_events": "12",
         "upcoming_events": "0",
         "last_event": "2019-11-28",
@@ -7300,7 +7300,7 @@
         "name": "Campus useR Group Frankfurt",
         "url": "<a href='https://www.meetup.com/r-frankfurt/'>Campus useR Group Frankfurt</a>",
         "created": "2019-01-24",
-        "members": "138",
+        "members": "139",
         "past_events": "8",
         "upcoming_events": "1",
         "last_event": "2019-12-09",
@@ -7334,7 +7334,7 @@
         "name": "Statistical Society of Australia, Victorian Branch",
         "url": "<a href='https://www.meetup.com/Statistical-Society-of-Australia-Victorian-Branch/'>Statistical Society of Australia, Victorian Branch</a>",
         "created": "2013-07-29",
-        "members": "2415",
+        "members": "2414",
         "past_events": "73",
         "upcoming_events": "0",
         "last_event": "2019-12-10",
@@ -7436,7 +7436,7 @@
         "name": "R-Ladies Santiago",
         "url": "<a href='https://www.meetup.com/rladies-scl/'>R-Ladies Santiago</a>",
         "created": "2017-07-18",
-        "members": "1499",
+        "members": "1500",
         "past_events": "23",
         "upcoming_events": "1",
         "last_event": "2019-09-16",
@@ -7572,7 +7572,7 @@
         "name": "R-Ladies Boulder",
         "url": "<a href='https://www.meetup.com/rladies-boulder/'>R-Ladies Boulder</a>",
         "created": "2018-06-11",
-        "members": "108",
+        "members": "109",
         "past_events": "3",
         "upcoming_events": "1",
         "last_event": "2019-12-11",
@@ -7734,23 +7734,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [78.48,17.4]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Diagnostics World Network of Researchers",
-        "url": "<a href='https://www.meetup.com/diagnostics_world/'>Diagnostics World Network of Researchers</a>",
-        "created": "2017-08-14",
-        "members": "58",
-        "past_events": "86",
-        "upcoming_events": "0",
-        "last_event": "2020-01-08",
-        "days_since_last_event": "1"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-71.07,42.36]
       }
     },
     {
@@ -7980,7 +7963,7 @@
         "name": "trigeR - Trójmiejska Grupa Entuzjastów R",
         "url": "<a href='https://www.meetup.com/Trojmiejska-Grupa-Entuzjastow-R/'>trigeR - Trójmiejska Grupa Entuzjastów R</a>",
         "created": "2016-12-14",
-        "members": "301",
+        "members": "302",
         "past_events": "14",
         "upcoming_events": "1",
         "last_event": "2018-05-29",
@@ -8150,7 +8133,7 @@
         "name": "R-Ladies Tucson AZ",
         "url": "<a href='https://www.meetup.com/rladies-tucson-az/'>R-Ladies Tucson AZ</a>",
         "created": "2017-11-14",
-        "members": "252",
+        "members": "253",
         "past_events": "11",
         "upcoming_events": "0",
         "last_event": "2019-12-21",
@@ -8184,7 +8167,7 @@
         "name": "R-Ladies Perth",
         "url": "<a href='https://www.meetup.com/rladies-perth/'>R-Ladies Perth</a>",
         "created": "2018-10-23",
-        "members": "232",
+        "members": "231",
         "past_events": "10",
         "upcoming_events": "0",
         "last_event": "2019-12-17",
@@ -8337,7 +8320,7 @@
         "name": "R-Ladies Cambridge",
         "url": "<a href='https://www.meetup.com/rladies-cambridge/'>R-Ladies Cambridge</a>",
         "created": "2017-11-10",
-        "members": "164",
+        "members": "165",
         "past_events": "1",
         "upcoming_events": "0",
         "last_event": "2019-09-13",
@@ -8431,6 +8414,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [-47.08,-22.91]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Diagnostics World Network of Researchers",
+        "url": "<a href='https://www.meetup.com/diagnostics_world/'>Diagnostics World Network of Researchers</a>",
+        "created": "2017-08-14",
+        "members": "58",
+        "past_events": "86",
+        "upcoming_events": "0",
+        "last_event": "2020-01-08",
+        "days_since_last_event": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.07,42.36]
       }
     },
     {
@@ -8881,7 +8881,7 @@
         "name": "R-Ladies London",
         "url": "<a href='https://www.meetup.com/rladies-london/'>R-Ladies London</a>",
         "created": "2016-01-31",
-        "members": "1475",
+        "members": "1474",
         "past_events": "52",
         "upcoming_events": "1",
         "last_event": "2019-12-03",
@@ -9017,7 +9017,7 @@
         "name": "R-Ladies Oslo",
         "url": "<a href='https://www.meetup.com/rladies-oslo/'>R-Ladies Oslo</a>",
         "created": "2018-02-26",
-        "members": "376",
+        "members": "377",
         "past_events": "8",
         "upcoming_events": "0",
         "last_event": "2019-12-03",
@@ -9136,7 +9136,7 @@
         "name": "ODSC Hyderabad Data Science",
         "url": "<a href='https://www.meetup.com/ODSC-Hyderabad-Data-Science/'>ODSC Hyderabad Data Science</a>",
         "created": "2019-08-19",
-        "members": "576",
+        "members": "577",
         "past_events": "3",
         "upcoming_events": "0",
         "last_event": "2019-12-07",
@@ -9170,7 +9170,7 @@
         "name": "Data Science Beginners Group",
         "url": "<a href='https://www.meetup.com/GSAID-Data-Science-Group/'>Data Science Beginners Group</a>",
         "created": "2019-12-04",
-        "members": "174",
+        "members": "175",
         "past_events": "3",
         "upcoming_events": "2",
         "last_event": "2019-12-22",
@@ -9187,7 +9187,7 @@
         "name": "ODSC Data Science Lagos",
         "url": "<a href='https://www.meetup.com/ODSC-Data-Science-Lagos/'>ODSC Data Science Lagos</a>",
         "created": "2019-09-20",
-        "members": "484",
+        "members": "486",
         "past_events": "3",
         "upcoming_events": "0",
         "last_event": "2019-12-13",
@@ -9238,7 +9238,7 @@
         "name": "Data Science Xcelerator by The African Leadership Group",
         "url": "<a href='https://www.meetup.com/Data-Science-Xcelerator-by-The-African-Leadership-Group/'>Data Science Xcelerator by The African Leadership Group</a>",
         "created": "2019-10-30",
-        "members": "78",
+        "members": "79",
         "past_events": "0",
         "upcoming_events": "1",
         "last_event": "1970-01-01",
@@ -9289,7 +9289,7 @@
         "name": "ODSC Toronto Data Science",
         "url": "<a href='https://www.meetup.com/ODSC-Toronto-Data-Science/'>ODSC Toronto Data Science</a>",
         "created": "2019-11-22",
-        "members": "148",
+        "members": "149",
         "past_events": "0",
         "upcoming_events": "2",
         "last_event": "1970-01-01",
@@ -9493,7 +9493,7 @@
         "name": "Norrköping Data Science Community",
         "url": "<a href='https://www.meetup.com/Norrkoping-Data-Science-Community/'>Norrköping Data Science Community</a>",
         "created": "2019-05-03",
-        "members": "128",
+        "members": "131",
         "past_events": "3",
         "upcoming_events": "1",
         "last_event": "2019-12-10",
@@ -9663,7 +9663,7 @@
         "name": "Data Science Networking and Study Group",
         "url": "<a href='https://www.meetup.com/Data-Science-Networking-And-Study-Group/'>Data Science Networking and Study Group</a>",
         "created": "2019-04-30",
-        "members": "908",
+        "members": "909",
         "past_events": "12",
         "upcoming_events": "2",
         "last_event": "2020-01-04",
@@ -9935,7 +9935,7 @@
         "name": "DataCouncil.ai - London Data Engineering & Science",
         "url": "<a href='https://www.meetup.com/DataCouncil-AI-London-Data-Engineering-and-Science/'>DataCouncil.ai - London Data Engineering & Science</a>",
         "created": "2018-11-15",
-        "members": "525",
+        "members": "526",
         "past_events": "6",
         "upcoming_events": "2",
         "last_event": "2019-10-02",
@@ -10221,23 +10221,6 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Echte Mehrwerte aus Daten generieren - so geht's",
-        "url": "<a href='https://www.meetup.com/Data-Journey-Echte-Mehrwerte-aus-Daten-generieren/'>Echte Mehrwerte aus Daten generieren - so geht's</a>",
-        "created": "2019-11-12",
-        "members": "28",
-        "past_events": "0",
-        "upcoming_events": "1",
-        "last_event": "1970-01-01",
-        "days_since_last_event": "18270"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [9.13,48.71]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "name": "Port City Analytics",
         "url": "<a href='https://www.meetup.com/PortCityAnalytics/'>Port City Analytics</a>",
         "created": "2018-02-07",
@@ -10442,18 +10425,18 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "The Millennium Institute, Bengaluru",
-        "url": "<a href='https://www.meetup.com/The-Millennium-Institute/'>The Millennium Institute, Bengaluru</a>",
-        "created": "2019-12-24",
-        "members": "151",
-        "past_events": "2",
-        "upcoming_events": "4",
-        "last_event": "2020-01-05",
-        "days_since_last_event": "4"
+        "name": "Echte Mehrwerte aus Daten generieren - so geht's",
+        "url": "<a href='https://www.meetup.com/Data-Journey-Echte-Mehrwerte-aus-Daten-generieren/'>Echte Mehrwerte aus Daten generieren - so geht's</a>",
+        "created": "2019-11-12",
+        "members": "28",
+        "past_events": "0",
+        "upcoming_events": "1",
+        "last_event": "1970-01-01",
+        "days_since_last_event": "18270"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [77.56,12.97]
+        "coordinates": [9.13,48.71]
       }
     },
     {
@@ -10505,6 +10488,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [-71.07,42.36]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Millennium Institute, Bengaluru",
+        "url": "<a href='https://www.meetup.com/The-Millennium-Institute/'>The Millennium Institute, Bengaluru</a>",
+        "created": "2019-12-24",
+        "members": "152",
+        "past_events": "2",
+        "upcoming_events": "4",
+        "last_event": "2020-01-05",
+        "days_since_last_event": "4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [77.56,12.97]
       }
     },
     {
@@ -10564,7 +10564,7 @@
         "name": "PyData Atlanta",
         "url": "<a href='https://www.meetup.com/PyData-Atlanta/'>PyData Atlanta</a>",
         "created": "2016-01-04",
-        "members": "3399",
+        "members": "3400",
         "past_events": "57",
         "upcoming_events": "0",
         "last_event": "2019-12-05",
@@ -10697,23 +10697,6 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "R-Ladies PDX",
-        "url": "<a href='https://www.meetup.com/rladies-pdx/'>R-Ladies PDX</a>",
-        "created": "2017-07-20",
-        "members": "239",
-        "past_events": "14",
-        "upcoming_events": "0",
-        "last_event": "2019-08-06",
-        "days_since_last_event": "156"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-122.69,45.5]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "name": "Kaggle Days Meetup Los Angeles",
         "url": "<a href='https://www.meetup.com/kaggledaysLA/'>Kaggle Days Meetup Los Angeles</a>",
         "created": "2019-05-17",
@@ -10794,6 +10777,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [-84.49,42.65]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "R-Ladies PDX",
+        "url": "<a href='https://www.meetup.com/rladies-pdx/'>R-Ladies PDX</a>",
+        "created": "2017-07-20",
+        "members": "239",
+        "past_events": "14",
+        "upcoming_events": "0",
+        "last_event": "2019-08-06",
+        "days_since_last_event": "156"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.69,45.5]
       }
     },
     {
@@ -10938,7 +10938,7 @@
         "name": "Tallinn R Users Group",
         "url": "<a href='https://www.meetup.com/r-tallinn/'>Tallinn R Users Group</a>",
         "created": "2019-08-16",
-        "members": "77",
+        "members": "78",
         "past_events": "1",
         "upcoming_events": "1",
         "last_event": "2019-09-24",
@@ -11193,7 +11193,7 @@
         "name": "Thinking Thursday",
         "url": "<a href='https://www.meetup.com/Thinking-Thursday/'>Thinking Thursday</a>",
         "created": "2019-05-09",
-        "members": "283",
+        "members": "284",
         "past_events": "6",
         "upcoming_events": "1",
         "last_event": "2019-11-28",
@@ -11227,7 +11227,7 @@
         "name": "Israel Tech Challenge",
         "url": "<a href='https://www.meetup.com/Itc-tech/'>Israel Tech Challenge</a>",
         "created": "2018-07-16",
-        "members": "142",
+        "members": "141",
         "past_events": "13",
         "upcoming_events": "2",
         "last_event": "2020-01-07",
@@ -11433,7 +11433,7 @@
         "created": "2018-02-26",
         "members": "474",
         "past_events": "16",
-        "upcoming_events": "0",
+        "upcoming_events": "1",
         "last_event": "2019-11-14",
         "days_since_last_event": "56"
       },
@@ -11516,7 +11516,7 @@
         "name": "R-Ladies Bilbao",
         "url": "<a href='https://www.meetup.com/rladies-bilbao/'>R-Ladies Bilbao</a>",
         "created": "2019-02-27",
-        "members": "145",
+        "members": "146",
         "past_events": "3",
         "upcoming_events": "1",
         "last_event": "2019-11-05",
@@ -11788,7 +11788,7 @@
         "name": "R-Ladies Paris",
         "url": "<a href='https://www.meetup.com/rladies-paris/'>R-Ladies Paris</a>",
         "created": "2016-09-19",
-        "members": "550",
+        "members": "551",
         "past_events": "15",
         "upcoming_events": "1",
         "last_event": "2019-06-14",
@@ -12077,7 +12077,7 @@
         "name": "Digital Marketing + Data Science -Ateliers Q/R Gratuits Lyon",
         "url": "<a href='https://www.meetup.com/Digital-Marketing-Data-Science-Ateliers-Q-R-Gratuits/'>Digital Marketing + Data Science -Ateliers Q/R Gratuits Lyon</a>",
         "created": "2018-06-25",
-        "members": "463",
+        "members": "464",
         "past_events": "13",
         "upcoming_events": "2",
         "last_event": "2019-11-28",
@@ -12213,7 +12213,7 @@
         "name": "Big Data & Predictive Analytics using R - Rio de Janeiro",
         "url": "<a href='https://www.meetup.com/Big-Data-Predictive-Analytics-using-R-Rio-de-Janeiro/'>Big Data & Predictive Analytics using R - Rio de Janeiro</a>",
         "created": "2014-10-10",
-        "members": "785",
+        "members": "786",
         "past_events": "18",
         "upcoming_events": "0",
         "last_event": "2015-08-07",
@@ -12247,7 +12247,7 @@
         "name": "SageMaker User Group Chicago",
         "url": "<a href='https://www.meetup.com/SageMaker-User-Group-Chicago/'>SageMaker User Group Chicago</a>",
         "created": "2020-01-03",
-        "members": "69",
+        "members": "70",
         "past_events": "0",
         "upcoming_events": "7",
         "last_event": "1970-01-01",
@@ -12273,23 +12273,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [34.88,32.09]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Use R! INMEGEN 2019",
-        "url": "<a href='https://www.meetup.com/Use-R-INMEGEN-2019/'>Use R! INMEGEN 2019</a>",
-        "created": "2018-10-04",
-        "members": "230",
-        "past_events": "1",
-        "upcoming_events": "0",
-        "last_event": "2019-02-25",
-        "days_since_last_event": "318"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-99.14,19.43]
       }
     },
     {
@@ -12375,6 +12358,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [-95.93,41.26]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Use R! INMEGEN 2019",
+        "url": "<a href='https://www.meetup.com/Use-R-INMEGEN-2019/'>Use R! INMEGEN 2019</a>",
+        "created": "2018-10-04",
+        "members": "230",
+        "past_events": "1",
+        "upcoming_events": "0",
+        "last_event": "2019-02-25",
+        "days_since_last_event": "318"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-99.14,19.43]
       }
     },
     {
@@ -12587,7 +12587,7 @@
         "name": "R-Ladies Washington D.C.",
         "url": "<a href='https://www.meetup.com/rladies-dc/'>R-Ladies Washington D.C.</a>",
         "created": "2016-12-07",
-        "members": "1710",
+        "members": "1711",
         "past_events": "45",
         "upcoming_events": "2",
         "last_event": "2019-11-23",
@@ -12706,7 +12706,7 @@
         "name": "Seattle useR Group (R Programming Language)",
         "url": "<a href='https://www.meetup.com/Seattle-useR/'>Seattle useR Group (R Programming Language)</a>",
         "created": "2009-12-12",
-        "members": "2554",
+        "members": "2555",
         "past_events": "73",
         "upcoming_events": "2",
         "last_event": "2019-12-13",
@@ -12757,7 +12757,7 @@
         "name": "R-Ladies RTP",
         "url": "<a href='https://www.meetup.com/rladies-rtp/'>R-Ladies RTP</a>",
         "created": "2016-08-15",
-        "members": "671",
+        "members": "670",
         "past_events": "40",
         "upcoming_events": "1",
         "last_event": "2019-10-10",
@@ -12791,7 +12791,7 @@
         "name": "R-Ladies İzmiR",
         "url": "<a href='https://www.meetup.com/rladies-izmir/'>R-Ladies İzmiR</a>",
         "created": "2016-10-09",
-        "members": "814",
+        "members": "815",
         "past_events": "1",
         "upcoming_events": "0",
         "last_event": "2017-02-22",
@@ -12890,23 +12890,6 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Chicago North West Suburbs R user group",
-        "url": "<a href='https://www.meetup.com/Chicago-North-West-Suburbs-R-user-group/'>Chicago North West Suburbs R user group</a>",
-        "created": "2015-07-15",
-        "members": "50",
-        "past_events": "2",
-        "upcoming_events": "0",
-        "last_event": "2015-08-06",
-        "days_since_last_event": "1617"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-87.84,42.13]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "name": "Quantum Computing Collective Trivandrum",
         "url": "<a href='https://www.meetup.com/Quantum-Computing-Collective-Trivandrum/'>Quantum Computing Collective Trivandrum</a>",
         "created": "2017-11-29",
@@ -12927,7 +12910,7 @@
         "name": "Köln R User Group",
         "url": "<a href='https://www.meetup.com/KoelnRUG/'>Köln R User Group</a>",
         "created": "2012-03-30",
-        "members": "972",
+        "members": "973",
         "past_events": "29",
         "upcoming_events": "0",
         "last_event": "2019-10-11",
@@ -12953,6 +12936,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [-72.67,41.79]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chicago North West Suburbs R user group",
+        "url": "<a href='https://www.meetup.com/Chicago-North-West-Suburbs-R-user-group/'>Chicago North West Suburbs R user group</a>",
+        "created": "2015-07-15",
+        "members": "50",
+        "past_events": "2",
+        "upcoming_events": "0",
+        "last_event": "2015-08-06",
+        "days_since_last_event": "1617"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-87.84,42.13]
       }
     },
     {
@@ -13148,7 +13148,7 @@
         "name": "R-Ladies Seattle",
         "url": "<a href='https://www.meetup.com/rladies-seattle/'>R-Ladies Seattle</a>",
         "created": "2017-11-08",
-        "members": "678",
+        "members": "679",
         "past_events": "27",
         "upcoming_events": "1",
         "last_event": "2019-12-04",
@@ -13233,7 +13233,7 @@
         "name": "eRfahrungsaustausch zum Thema R in Esslingen",
         "url": "<a href='https://www.meetup.com/eRfahrungsaustausch-zum-Thema-R-in-Esslingen/'>eRfahrungsaustausch zum Thema R in Esslingen</a>",
         "created": "2017-11-25",
-        "members": "30",
+        "members": "29",
         "past_events": "4",
         "upcoming_events": "0",
         "last_event": "2018-04-12",
@@ -13383,23 +13383,6 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "St. Louis Machine Learning & Data Science",
-        "url": "<a href='https://www.meetup.com/St-Louis-Machine-Learning/'>St. Louis Machine Learning & Data Science</a>",
-        "created": "2012-07-17",
-        "members": "2214",
-        "past_events": "79",
-        "upcoming_events": "5",
-        "last_event": "2019-12-11",
-        "days_since_last_event": "29"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-90.3,38.59]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "name": "Nijmegen eveRybody",
         "url": "<a href='https://www.meetup.com/Nijmegen-eveRybody/'>Nijmegen eveRybody</a>",
         "created": "2015-04-11",
@@ -13429,6 +13412,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [-75.59,6.25]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "St. Louis Machine Learning & Data Science",
+        "url": "<a href='https://www.meetup.com/St-Louis-Machine-Learning/'>St. Louis Machine Learning & Data Science</a>",
+        "created": "2012-07-17",
+        "members": "2214",
+        "past_events": "79",
+        "upcoming_events": "5",
+        "last_event": "2019-12-11",
+        "days_since_last_event": "29"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-90.3,38.59]
       }
     },
     {
@@ -13488,7 +13488,7 @@
         "name": "ODSC London Data Science",
         "url": "<a href='https://www.meetup.com/London-Data-Science-ODSC/'>ODSC London Data Science</a>",
         "created": "2015-06-29",
-        "members": "6094",
+        "members": "6093",
         "past_events": "70",
         "upcoming_events": "0",
         "last_event": "2019-12-17",
@@ -13675,7 +13675,7 @@
         "name": "Data Science Floripa",
         "url": "<a href='https://www.meetup.com/dsfloripa/'>Data Science Floripa</a>",
         "created": "2015-04-16",
-        "members": "1806",
+        "members": "1811",
         "past_events": "15",
         "upcoming_events": "1",
         "last_event": "2019-12-03",
@@ -13709,7 +13709,7 @@
         "name": "Toronto - Cognitive, AI & Data Science Meetup",
         "url": "<a href='https://www.meetup.com/Cognitive-Toronto/'>Toronto - Cognitive, AI & Data Science Meetup</a>",
         "created": "2014-03-17",
-        "members": "12091",
+        "members": "12090",
         "past_events": "116",
         "upcoming_events": "0",
         "last_event": "2019-12-11",
@@ -13944,10 +13944,27 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Code•It! Little Rock Dev Meetup",
+        "url": "<a href='https://www.meetup.com/Code-It-Little-Rock-Dev-Meetup/'>Code•It! Little Rock Dev Meetup</a>",
+        "created": "2016-03-09",
+        "members": "257",
+        "past_events": "6",
+        "upcoming_events": "0",
+        "last_event": "2017-05-02",
+        "days_since_last_event": "982"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-92.28,34.75]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Lyon Data Science",
         "url": "<a href='https://www.meetup.com/Lyon-Data-Science/'>Lyon Data Science</a>",
         "created": "2015-08-24",
-        "members": "2854",
+        "members": "2855",
         "past_events": "43",
         "upcoming_events": "1",
         "last_event": "2019-12-17",
@@ -13981,32 +13998,15 @@
         "name": "Hitchin Data Science Meetup Group",
         "url": "<a href='https://www.meetup.com/Hitchin-Data-Science-Meetup-Group/'>Hitchin Data Science Meetup Group</a>",
         "created": "2019-08-23",
-        "members": "39",
+        "members": "40",
         "past_events": "3",
-        "upcoming_events": "1",
+        "upcoming_events": "2",
         "last_event": "2019-12-17",
         "days_since_last_event": "23"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [-0.28,51.96]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Code•It! Little Rock Dev Meetup",
-        "url": "<a href='https://www.meetup.com/Code-It-Little-Rock-Dev-Meetup/'>Code•It! Little Rock Dev Meetup</a>",
-        "created": "2016-03-09",
-        "members": "257",
-        "past_events": "6",
-        "upcoming_events": "0",
-        "last_event": "2017-05-02",
-        "days_since_last_event": "982"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-92.28,34.75]
       }
     },
     {
@@ -14114,23 +14114,6 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Bay Area Apache Druid Meetup by Imply",
-        "url": "<a href='https://www.meetup.com/druidio/'>Bay Area Apache Druid Meetup by Imply</a>",
-        "created": "2013-03-05",
-        "members": "1590",
-        "past_events": "24",
-        "upcoming_events": "0",
-        "last_event": "2019-11-13",
-        "days_since_last_event": "57"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-122.36,37.57]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "name": "Ciencia de datos para el desarrollo de proyectos",
         "url": "<a href='https://www.meetup.com/Shiny-para-el-desarrollo-de-proyectos/'>Ciencia de datos para el desarrollo de proyectos</a>",
         "created": "2019-06-15",
@@ -14165,10 +14148,27 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Bay Area Apache Druid Meetup by Imply",
+        "url": "<a href='https://www.meetup.com/druidio/'>Bay Area Apache Druid Meetup by Imply</a>",
+        "created": "2013-03-05",
+        "members": "1590",
+        "past_events": "24",
+        "upcoming_events": "0",
+        "last_event": "2019-11-13",
+        "days_since_last_event": "57"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.36,37.57]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "ATLytiCS: Analytics For Good",
         "url": "<a href='https://www.meetup.com/ATLytiCS-Analytics-For-Good/'>ATLytiCS: Analytics For Good</a>",
         "created": "2018-06-23",
-        "members": "1327",
+        "members": "1329",
         "past_events": "11",
         "upcoming_events": "1",
         "last_event": "2019-12-04",
@@ -14474,7 +14474,7 @@
         "name": "New York Data Science",
         "url": "<a href='https://www.meetup.com/NYDataScientists/'>New York Data Science</a>",
         "created": "2015-06-29",
-        "members": "7174",
+        "members": "7175",
         "past_events": "195",
         "upcoming_events": "0",
         "last_event": "2019-07-23",
@@ -14661,7 +14661,7 @@
         "name": "R-Ladies Gainesville",
         "url": "<a href='https://www.meetup.com/rladies-gainesville/'>R-Ladies Gainesville</a>",
         "created": "2018-07-04",
-        "members": "250",
+        "members": "252",
         "past_events": "15",
         "upcoming_events": "0",
         "last_event": "2019-12-03",
@@ -15035,7 +15035,7 @@
         "name": "R-Ladies New York",
         "url": "<a href='https://www.meetup.com/rladies-newyork/'>R-Ladies New York</a>",
         "created": "2016-08-23",
-        "members": "1662",
+        "members": "1663",
         "past_events": "40",
         "upcoming_events": "1",
         "last_event": "2019-12-03",
