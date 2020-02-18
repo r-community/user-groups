@@ -4,9 +4,9 @@
       "chapters": 188,
       "countries": 52,
       "city": 185,
-      "members": 63819,
-      "past_events": 2112,
-      "upcoming_events": 87,
+      "members": 63907,
+      "past_events": 2114,
+      "upcoming_events": 98,
       "avgchapter": 3,
       "avgevent": 11,
       "avgmember": 339
@@ -20,12 +20,12 @@
       "afr": 9,
       "asia": 14,
       "aus": 9,
-      "latinAm_m": 13314,
-      "us_can_m": 20877,
-      "eur_m": 20068,
-      "afr_m": 2341,
-      "asia_m": 3465,
-      "aus_m": 3754
+      "latinAm_m": 13340,
+      "us_can_m": 20896,
+      "eur_m": 20090,
+      "afr_m": 2344,
+      "asia_m": 3479,
+      "aus_m": 3758
     }
   ]
 ]
